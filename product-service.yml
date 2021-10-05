@@ -1,8 +1,2 @@
-spring:
-  data:
-    mongodb:
-      uri: mongodb://localhost:27017/tech-shop-product-service
-  jpa:
-    show-sql: true
-    hibernate:
-      ddl-auto: update
+testing:
+  name: testing
